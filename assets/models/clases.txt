@@ -1,0 +1,44 @@
+límite de velocidad 20
+límite de velocidad 30
+límite de velocidad 50
+límite de velocidad 60
+límite de velocidad 70
+límite de velocidad 80
+fin de límite de velocidad 80
+límite de velocidad 100
+límite de velocidad 120
+prohibido adelantar
+prohibido adelantar para vehículos pesados
+intersección con prioridad
+calzada con prioridad
+ceda el paso
+stop
+circulación prohibida
+prohibido vehículos pesados
+prohibido el paso
+peligro general
+curva peligrosa a la izquierda
+curva peligrosa a la derecha
+curvas peligrosas
+pavimento irregular
+pavimento deslizante
+estrechamiento de calzada por la derecha
+obras
+semáforo
+peatones
+niños
+ciclistas
+pavimento con hielo o nieve
+paso de animales
+fin de restricciones
+dirección obligatoria derecha
+dirección obligatoria izquierda
+dirección obligatoria recto
+dirección obligatoria recto o derecha
+dirección obligatoria recto o izquierda
+paso obligatorio derecha
+paso obligatorio izquierda
+glorieta obligatoria
+fin de prohibido adelantar
+fin de prohibido adelantar vehículos pesados
+paso de peatones

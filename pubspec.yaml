@@ -1,0 +1,31 @@
+name: eyecam_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.12.2
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.12.0+1
+  flutter_tts: ^4.1.0
+  google_mlkit_text_recognition: ^0.15.1
+  tflite_flutter: ^0.11.0   # ejecuta nuestras CNN propias en el móvil (respaldo local)
+  image: ^4.2.0             # preprocesado de la foto para los modelos
+  http: ^1.2.2               # para llamar a la IA en la nube (Gemini)
+  cupertino_icons: ^1.0.8
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/modelo_senales.tflite
+    - assets/models/clases.txt
+    - assets/models/modelo_semaforo.tflite
